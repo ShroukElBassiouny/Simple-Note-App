@@ -1,7 +1,10 @@
 # Simple Notes App
  Simple Notes App for read , write , remove and show notes and check if note is exist or not using node.js
  
-#### Note: before starting using project make sure you are at the correct destination by running command: cd ./src
+#### Note: before starting using project make sure you are at the correct destination by running command: 
+```sh
+cd ./src
+```
 
 ## To read note
 ```sh
